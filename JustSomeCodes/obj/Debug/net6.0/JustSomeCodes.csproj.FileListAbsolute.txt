@@ -1,0 +1,15 @@
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\bin\Debug\net6.0\JustSomeCodes.exe
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\bin\Debug\net6.0\JustSomeCodes.deps.json
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\bin\Debug\net6.0\JustSomeCodes.runtimeconfig.json
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\bin\Debug\net6.0\JustSomeCodes.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\bin\Debug\net6.0\JustSomeCodes.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.csproj.AssemblyReference.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.AssemblyInfoInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.AssemblyInfo.cs
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.csproj.CoreCompileInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\refint\JustSomeCodes.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\JustSomeCodes.genruntimeconfig.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\JustSomeCodes\JustSomeCodes\obj\Debug\net6.0\ref\JustSomeCodes.dll
